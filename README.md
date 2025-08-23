@@ -23,6 +23,7 @@ It includes essential documents for ISO certification, focusing on initiating th
 - Prepare for ISO 27001 readiness and align with SBP ETGRM guidelines  
 
 ---
+## Pictures from the main report have been added here for clarity:
 
 ## 📂 Repository Structure
 ```plaintext
