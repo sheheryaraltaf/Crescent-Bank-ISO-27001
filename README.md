@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 **Disclaimer:** Crescent Bank is a fictional organization created for educational purposes.  
 
 This project demonstrates a step-by-step implementation of an ISMS following ISO/IEC 27001:2022 standards.  
@@ -15,7 +15,7 @@ It includes essential documents for ISO certification, focusing on initiating th
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Establish a robust ISMS for the bank  
 - Identify, assess, and treat information security risks  
 - Protect information assets and reduce risk of breaches  
