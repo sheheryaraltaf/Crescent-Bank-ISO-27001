@@ -1,14 +1,14 @@
-# Crescent Islamic Bank – ISO 27001 ISMS Project
+# Crescent  Bank – ISO 27001 ISMS Project
 
 ---
 
 ## 🏷️ Project Title
-**ISO/IEC 27001:2022 ISMS Implementation at Crescent Islamic Bank**
+**ISO/IEC 27001:2022 ISMS Implementation at Crescent Bank**
 
 ---
 
 ## 📖 Project Overview
-**Disclaimer:** Crescent Islamic Bank is a fictional organization created for educational purposes.  
+**Disclaimer:** Crescent Bank is a fictional organization created for educational purposes.  
 
 This project demonstrates a step-by-step implementation of an ISMS following ISO/IEC 27001:2022 standards.  
 It includes essential documents for ISO certification, focusing on initiating the ISMS, defining scope, and preparing for risk assessment and Statement of Applicability (SoA).
