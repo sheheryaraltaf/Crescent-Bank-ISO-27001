@@ -30,4 +30,4 @@ It includes essential documents for ISO certification, focusing on initiating th
 crescent-bank-iso27001/
 │── README.md                        # Project introduction and objectives
 │── 01_Bank_Overview.pdf             # Bank profile
-│── 03_ISMS_Scope.pdf                # ISMS Scope Document
+│── 03_ISMS_PID.pdf                # ISMS Scope Document
