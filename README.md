@@ -1,4 +1,4 @@
-# Crescent  Bank – ISO 27001 ISMS Project
+# Crescent  Bank – ISO 27001 ISMS GRC Project
 
 ---
 
