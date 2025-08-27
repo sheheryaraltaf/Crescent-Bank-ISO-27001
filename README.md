@@ -2,7 +2,7 @@
 
 ---
 
-## 🏷️ Project Title
+##  Project Title
 **ISO/IEC 27001:2022 ISMS Implementation at Crescent Bank**
 
 ---
@@ -12,22 +12,23 @@
 
 This project demonstrates a step-by-step implementation of an ISMS following ISO/IEC 27001:2022 standards.  
 It includes essential documents for ISO certification, focusing on initiating the ISMS, defining scope, and preparing for risk assessment and Statement of Applicability (SoA).
+It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk identification, treatment, and aligning the bank’s policies with regulatory requirements.  
 
----
+
 
 ##  Project Objectives
-- Establish a robust ISMS for the bank  
-- Identify, assess, and treat information security risks  
-- Protect information assets and reduce risk of breaches  
-- Build client trust and support informed decision-making  
-- Prepare for ISO 27001 readiness and align with SBP ETGRM guidelines  
+1. Establish a robust ISMS for the bank  
+2. Identify, assess, and treat information security risks  
+3. Protect information assets and reduce risk of breaches  
+4. Build client trust and support informed decision-making  
+5. Prepare for ISO 27001 readiness and align with SBP ETGRM guidelines  
 
 ---
 ## Pictures from the main report have been added here for clarity:
 
-## 📂 Repository Structure
+##  Repository Structure
 ```plaintext
 crescent-bank-iso27001/
 │── README.md                        # Project introduction and objectives
 │── 01_Bank_Overview.pdf             # Bank profile
-│── 03_ISMS_PID.pdf                # ISMS Scope Document
+│── 03_ISMS_PID.pdf                  # ISMS Scope Document
