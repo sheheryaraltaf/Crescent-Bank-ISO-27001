@@ -26,9 +26,12 @@ It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk
 ---
 ## Pictures from the main report have been added here for clarity:
 
+
+
 ##  Repository Structure
 ```plaintext
 crescent-bank-iso27001/
-│── README.md                        # Project introduction and objectives
-│── 01_Bank_Overview.pdf             # Bank profile
-│── 03_ISMS_PID.pdf                  # ISMS Scope Document
+│── README.md
+│── 01_Bank_Overview.pdf
+│── 02_ISMS_PID.pdf
+│── 03_ISMS_Context_Scope.pdf
