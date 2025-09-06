@@ -35,3 +35,5 @@ crescent-bank-iso27001/
 │── 01_Bank_Overview.pdf
 │── 02_ISMS_PID.pdf
 │── 03_ISMS_Context_Scope.pdf
+│── 04_ISMS_Gap_Assessment.pdf
+
