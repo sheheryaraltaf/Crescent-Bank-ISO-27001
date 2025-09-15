@@ -27,12 +27,16 @@ It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk
 
 ## Pictures from the main report have been added here for clarity:
 
-![Bank Overview](images/Bank_Overview.PNG)  
-![Gap Assessment](images/Gap_Assessment.PNG)  
-![Information Security Policy](images/IS_Policy.PNG)  
-![Roles and Responsibilities](images/Roles_and_Responsibilities.PNG)  
+<p align="center">
+  <img src="images/Bank_Overview.PNG" alt="Bank Overview" width="300"/>
+  <img src="images/Gap_Assessment.PNG" alt="Gap Assessment" width="300"/>
+</p>
 
----
+<p align="center">
+  <img src="images/IS_Policy.PNG" alt="Information Security Policy" width="300"/>
+  <img src="images/Roles_and_Responsibilities.PNG" alt="Roles and Responsibilities" width="300"/>
+</p>
+
 
 ## Repository Structure
 ```plaintext
