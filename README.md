@@ -1,22 +1,22 @@
-# Crescent  Bank – ISO 27001 ISMS GRC Project
+# Crescent Bank – ISO 27001 ISMS GRC Project
 
 ---
 
-##  Project Title
+## Project Title
 **ISO/IEC 27001:2022 ISMS Implementation at Crescent Bank**
 
 ---
 
-##  Project Overview
+## Project Overview
 **Disclaimer:** Crescent Bank is a fictional organization created for educational purposes.  
 
 This project demonstrates a step-by-step implementation of an ISMS following ISO/IEC 27001:2022 standards.  
-It includes essential documents for ISO certification, focusing on initiating the ISMS, defining scope, and preparing for risk assessment and Statement of Applicability (SoA).
+It includes essential documents for ISO certification, focusing on initiating the ISMS, defining scope, and preparing for risk assessment and Statement of Applicability (SoA).  
 It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk identification, treatment, and aligning the bank’s policies with regulatory requirements.  
 
+---
 
-
-##  Project Objectives
+## Project Objectives
 1. Establish a robust ISMS for the bank  
 2. Identify, assess, and treat information security risks  
 3. Protect information assets and reduce risk of breaches  
@@ -27,14 +27,14 @@ It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk
 
 ## Pictures from the main report have been added here for clarity:
 
-![Bank Overview](images/Bank Overview.PNG)  
-![Gap Assessment](images/Gap assessment.PNG)  
-![Information Security Policy](images/IS policy.PNG)  
-![Roles and Responsibilities](images/Roles and responsibilities.PNG)
+![Bank Overview](images/Bank_Overview.PNG)  
+![Gap Assessment](images/Gap_Assessment.PNG)  
+![Information Security Policy](images/IS_Policy.PNG)  
+![Roles and Responsibilities](images/Roles_and_Responsibilities.PNG)  
 
+---
 
-
-##  Repository Structure
+## Repository Structure
 ```plaintext
 crescent-bank-iso27001/
 │── README.md
@@ -43,4 +43,8 @@ crescent-bank-iso27001/
 │── 03_ISMS_Context_Scope.pdf
 │── 04_ISMS_Gap_Assessment.pdf
 │── 05_Information_Security_Policy.pdf
-
+│── images/
+│   ├── Bank_Overview.PNG
+│   ├── Gap_Assessment.PNG
+│   ├── IS_Policy.PNG
+│   └── Roles_and_Responsibilities.PNG
