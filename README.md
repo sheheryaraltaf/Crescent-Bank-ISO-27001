@@ -24,7 +24,13 @@ It focuses on **Governance, Risk, and Compliance (GRC)** aspects, including risk
 5. Prepare for ISO 27001 readiness and align with SBP ETGRM guidelines  
 
 ---
+
 ## Pictures from the main report have been added here for clarity:
+
+![Bank Overview](images/Bank Overview.PNG)  
+![Gap Assessment](images/Gap assessment.PNG)  
+![Information Security Policy](images/IS policy.PNG)  
+![Roles and Responsibilities](images/Roles and responsibilities.PNG)
 
 
 
