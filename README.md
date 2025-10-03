@@ -47,6 +47,7 @@ crescent-bank-iso27001/
 │── 03_ISMS_Context_Scope.pdf
 │── 04_ISMS_Gap_Assessment.pdf
 │── 05_Information_Security_Policy.pdf
+│── 06_Risk Assessment Methodology.pdf
 │── images/
 │   ├── Bank_Overview.PNG
 │   ├── Gap_Assessment.PNG
